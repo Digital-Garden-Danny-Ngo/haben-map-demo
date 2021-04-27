@@ -1,0 +1,44 @@
+{
+  "mapwidth": "2000",
+	"mapheight": "1500",
+	"defaultstyle": "light",
+	"styles": [
+		{
+			"class": "light",
+			"hover": { "fill": "#f4f4f4" },
+			"active": { "fill": "#fff" }
+		},
+		{
+			"class": "dark",
+			"hover": { "fill": "#666" },
+			"active": { "fill": "#555" }
+		}
+	],
+    "categories": [
+      {
+        "id": "supermarket",
+        "title": "Supermarket",
+        "color": "#FFB985",
+        "legend": "true"
+      }
+    ],
+    "levels": [
+      {
+        "id": "lower",
+        "title": "Lower floor",
+        "map": "map/croydon-map.svg",
+        "locations": [
+          {
+            "id": "MM03",
+            "about": "About store",
+            "title": "Store-Name",
+            "description": "Store description",
+            "category": "supermarket",
+            "link": "#",
+            "x": "0.6647",
+            "y": "0.4223"
+          }
+        ]
+      }
+    ]
+  }
