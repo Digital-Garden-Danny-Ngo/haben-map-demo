@@ -27,18 +27,7 @@
         "id": "lower",
         "title": "Lower floor",
         "map": "map/croydon-map.svg",
-        "locations": [
-          {
-            "id": "MM03",
-            "about": "About store",
-            "title": "Store-Name",
-            "description": "Store description",
-            "category": "supermarket",
-            "link": "#",
-            "x": "0.6647",
-            "y": "0.4223"
-          }
-        ]
+        "locations": []
       }
     ]
   }

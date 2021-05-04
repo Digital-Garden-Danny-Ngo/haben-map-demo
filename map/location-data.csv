@@ -1,5 +1,38 @@
 id,title,about,description,category,link,x,y
-M01,Coles,About store,Lorem ipsum dolor sit amet,supermarket,#,0.4881,0.664
-M02,Aldi,About store,Lorem ipsum dolor sit amet,supermarket,#,0.2065,0.5785
-M01B,Liquorland,About store,Lorem ipsum dolor sit amet,supermarket,#,0.4586,0.5790
-_x30_20,Priceline,About store,Lorem ipsum dolor sit amet,supermarket,#,0.5206,0.4030
+M01,Coles,Shop: M01,03 7004 7700,Supermarkets & Liquor,https://www.croydoncentral.com.au/stores/coles,0.4881,0.664
+M02,ALDI,Shop: M02,13 25 34,Supermarkets & Liquor,https://www.croydoncentral.com.au/stores/aldi,0.2065,0.5785
+M01B,Liquorland,Shop: M01B,03 7004 7780,Supermarkets & Liquor,https://www.croydoncentral.com.au/stores/liquorland,0.6576,0.5770
+020,Priceline Pharmacy,Shop: 20,03 9725 8895,Health & Beauty Services & Retail,https://www.croydoncentral.com.au/stores/priceline-pharmacy,0.5206,0.403
+032,Bakers Delight,Shop: 32,03 9725 1699,Fresh Food,https://www.croydoncentral.com.au/stores/bakers-delight,0.5862,0.4867
+025,Beauty Genesis,Shop: 25,03 9725 5320,Health & Beauty Services & Retail,https://www.croydoncentral.com.au/stores/beauty-genesis,0.5707,0.42
+005,Bendigo Community Bank,Shop: 5,03 8739 9448,Banking & Financial Services,https://www.croydoncentral.com.au/stores/bendigo-community-bank,0.3927,0.4347
+029,Big Mates Pizza,Shop: 29,03 9723 0001,Fast Food & Casual Dining,https://www.croydoncentral.com.au/stores/big-mates-pizza,0.6722,0.5107
+008,Bottlemart,Shop: 8,0414 310 075,Supermarkets & Liquor,https://www.croydoncentral.com.au/stores/bottlemart,0.1217,0.5373
+M03,Bluebird Early Education,Shop: M03,03 8202 4134,General Retail & Services,https://www.croydoncentral.com.au/stores/bluebird-early-education-centre,0.7777,0.448
+006A,Classic Barber,Shop: 6A,03 8799 2650,Health & Beauty Services & Retail,https://www.croydoncentral.com.au/stores/classic-barber,0.2777,0.438
+021,Cobbler's Den,Shop: 21,03 9723 4103,General Retail & Services,https://www.croydoncentral.com.au/stores/cobblers-den,0.5207,0.4427
+016,Croydon Central Dental,Shop: 16,03 9116 6190,Health & Beauty Services & Retail,https://www.croydoncentral.com.au/stores/croydon-central-dental,0.6037,0.4087
+019,Croydon Central News & Lotto,Shop: 19,03 8719 5945,General Retail & Services,https://www.croydoncentral.com.au/stores/croydon-central-news-lotto,0.4303,0.3633
+C3,Dumpling Folks,Shop: C3,0455 456 901,Fast Food & Casual Dining,https://www.croydoncentral.com.au/stores/dumpling-folks,0.1422,0.348
+K1,Ferguson Plarre,Shop: K1,03 8782 5317,Fast Food & Casual Dining,https://www.croydoncentral.com.au/stores/ferguson-plarre-bakehouses,0.5262,0.4967
+022,Gemini Mobile,Shop: 22,03 9723 7832,General Retail & Services,https://www.croydoncentral.com.au/stores/gemini-mobile,0.5442,0.442
+029A,Green Leaf Therapy,Shop: 29A,03 9725 8168,Health & Beauty Services & Retail,https://www.croydoncentral.com.au/stores/green-leaf-therapy,0.6527,0.512
+MM03,HealthMint Medical Centre,Shop: MM03,03 8777 0666,Health & Beauty Services & Retail,https://www.croydoncentral.com.au/stores/healthmint-medical-centre,0.6532,0.404
+030,HiaH Hair Salon,Shop: 30,03 9723 4433,Health & Beauty Services & Retail,https://www.croydoncentral.com.au/stores/hiah-hair-salon,0.6317,0.4973
+C1,Jin Oriental Cuisine,Shop: C1,0426 762 368,Fast Food & Casual Dining,https://www.croydoncentral.com.au/stores/jin-oriental-cuisine,0.1682,0.3967
+012,Kwik Alteration,Shop: 12,03 9725 5985,General Retail & Services,https://www.croydoncentral.com.au/stores/kwik-alteration,0.1947,0.436
+009,Millers,Shop: 9,03 8784 1710,Fashion & Accessories,https://www.croydoncentral.com.au/stores/millers,0.3137,0.5473
+023,Monkey's Laundry,Shop: 23,0404 223 351,General Retail & Services,https://www.croydoncentral.com.au/stores/monkeys-laundry,0.5737,0.372
+018,Papillon Fine Jewellery,Shop: 18,03 9725 3098,Fashion & Accessories,https://www.croydoncentral.com.au/stores/papillon-fine-jewellery,0.4137,0.4373
+MM02,QuickFit Health Clubs,Shop: M02,03 8390 1435,Health & Beauty Services & Retail,https://www.croydoncentral.com.au/stores/quickfit-health-clubs,0.7797,0.3393
+011,Rainbow Meats,Shop: 11,03 9723 1300,Fresh Food,https://www.croydoncentral.com.au/stores/rainbow-meats,0.4552,0.53
+C2,Sakura Sushi,Shop: C2,0404 828 938,Fast Food & Casual Dining,https://www.croydoncentral.com.au/stores/sakura-sushi,0.2112,0.3973
+C4,South East Delish,Shop: C4,0412 235 655,Fast Food & Casual Dining,https://www.croydoncentral.com.au/stores/south-east-delish,0.1887,0.3473
+MM01,Supa Bargains,Shop: 2,0491 059 766,"Discount Variety, Homewares & Entertainment",https://www.croydoncentral.com.au/stores/supa-bargains,0.3242,0.4047
+010,The Beauty & Brow Parlour,Shop: 10,0419 171 301,Health & Beauty Services & Retail,https://www.croydoncentral.com.au/stores/beauty-brow-parlour,0.3432,0.5327
+001,The Jolly Miller,Shop: 1,03 7018 7521,Fast Food & Casual Dining,https://www.croydoncentral.com.au/stores/jolly-miller,0.1507,0.4373
+017,The Local Asian Grocer,Shop: 17,03 8740 3453,Supermarkets & Liquor,https://www.croydoncentral.com.au/stores/local-asian-grocer,0.5897,0.5207
+019A,The Spectacle Site,Shop: 19A,03 7036 2752,Health & Beauty Services & Retail,https://www.croydoncentral.com.au/stores/spectacle-site,0.3697,0.436
+004,TSG Tobacco Station,Shop: 4,03 9723 2221,General Retail & Services,https://www.croydoncentral.com.au/stores/tsg-tobacco-station,0.2312,0.436
+003,Who Framed Hong,Shop: 3,03 9722 9878,General Retail & Services,https://www.croydoncentral.com.au/stores/who-framed-hong,0.2112,0.4367
+MM04,Zesty Land Fine Foods,Shop: MM04,03 9800 7856,Fresh Food,https://www.croydoncentral.com.au/stores/zesty-land-fine-foods,0.3857,0.5487
